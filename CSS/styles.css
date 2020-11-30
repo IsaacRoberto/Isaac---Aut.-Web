@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration:none;
+    box-sizing: border-box;
+}   
+
+
+body{
+    font-family: 'roboto';
+}
+
+.center{
+    text-align: center;
+}
+
+.left{
+    text-align: left;
+}
+.rigth{
+    text-align: right;
+}
+
+h1.center{
+    text-align: center;
+    color: brown;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+p{
+    text-align: right;
+}
+h3{
+    text-align: justify;
+}
+a{
+    text-align: justify;
+}
